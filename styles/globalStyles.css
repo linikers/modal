@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --color-green-1: #5CDD7D;
+    --color-green-2: #79BD9A;
+    --color-green-3: #CFF09E;
+    --color-green-4: #F8F9FA;
+    
+
+    --color-grey-1: #191C1F;
+    --color-grey-2: #212529;
+    --color-grey-3: #343A40;
+    --color-grey-4: #ADB5BD;
+    --color-grey-5: #CED4DA;
+    --color-grey-6: #EDF2FF;
+}
+body {
+    height: 100vh;
+}
