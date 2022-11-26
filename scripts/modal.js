@@ -79,27 +79,3 @@ function closeModal(){
         modalWrapper.remove()
     })
 }
-//console.log(createModal())
-
-/* Desenvolva seu código aqui... 
-
-<section class="modal-wrapper">
-            <div class="modal">
-                <div class="modal-header">
-                    <h3 class="modal-title">Esqueci minha senha</h3>
-                    <button class="modal-close">X</button>
-                </div>
-                
-                <form class="modal-form">
-                    <label class="modal-label-email">E-mail</label>
-                    <input class="modal-input-pwd" type="email" id="email" name="e-mail" maxlength="20" placeholder="Digite seu e-mail" required>
-                    <button class="modal-btn-solicita">Solicitar senha</button>
-                
-                </form>
-                
-
-            </div>
-
-        </section>
-    
-*/
